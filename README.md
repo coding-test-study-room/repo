@@ -177,5 +177,11 @@ https://school.programmers.co.kr/learn/courses/30/parts/12263
 
 👉 발표없이 코드만 !
 
-2. 모의고사 세션 : https://www.codetree.ai/training-field/mock-tests
+~~2. 모의고사 세션 : https://www.codetree.ai/training-field/mock-tests~~
+
+### 17주차 문제 목록 : 고득점 kit 그리디
+
+https://school.programmers.co.kr/learn/courses/30/parts/12244
+
+#### 04/21 금 - 발표자 : 이유영
 
